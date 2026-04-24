@@ -1,0 +1,24 @@
+{
+  "primaryAccount": {
+    "fullName": "Соколов Дмитрий Андреевич",
+    "email": "testflow@inbox.ru",
+    "login": "TechUser",
+    "password": "Skyfall1",
+    "passwordConfirm": "Skyfall1"
+  },
+
+  "secondaryAccount": {
+    "fullName": "Иванов Сергей Петрович",
+    "email": "backup@mail.ru",
+    "login": "MainUser",
+    "password": "Sunset2023@",
+    "passwordConfirm": "Sunset2023@"
+  },
+  "invalidDataSet": {
+    "fullName": "Invalid Name",
+    "email": "bad-email",
+    "login": "wrong login!",
+    "password": "123",
+    "passwordConfirm": "456"
+  }
+}
